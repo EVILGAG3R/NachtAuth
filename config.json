@@ -18,6 +18,6 @@
     "azure" : {
         "client_id": "fcb512a2-3527-4a33-82b6-a60fd9cdb78d",
         "client_secret": "0988330a-a7f7-48af-9266-50a14e65ed51",
-        "redirect_uri": ""
+        "redirect_uri": "https://nachtauth-zock.onrender.com"
     }
 }
